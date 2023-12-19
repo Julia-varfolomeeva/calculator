@@ -1,0 +1,101 @@
+.calc{
+    margin:50px auto;
+    padding: 10px;
+    background: #000;
+    width: 400px;
+    height: 650px;
+    border: 1 px solid #000;
+    border-radius: 20px;
+    position: relative;
+}
+/* 
+input[type=text]{
+    color: aliceblue;
+    background: #000;
+    margin: 20px;
+    width: 350px;
+    height: 100px;
+    font-size: 34px;
+   
+} */
+.tablo-v{
+    background: #000;
+    margin: 20px;
+    width: 350px;
+    height: 100px;
+    font-size: 75px;
+    color: aliceblue;
+    text-align:right;
+    
+}
+
+.claviature{
+    display: flex;
+   
+
+}
+.clavia-number{
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+    height: 400px;
+}
+.clavia-sumbol{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+}
+
+
+.number{
+    border: 0.1px solid #000;
+    border-radius: 100%;
+    font-size: 35px;
+    text-align: center;
+    padding: 14px;
+    margin:10px;
+    width: 50px;
+    height: 50px;
+    background: rgb(175, 173, 173);
+}
+.number-0{
+    border: 0.1px solid #000;
+    border-radius: 30px;
+    font-size: 35px;
+    text-align: center;
+    padding: 14px;
+    margin:10px;
+    width: 150px;
+    height: 50px;
+    background: rgb(175, 173, 173);
+}
+.tablo{
+    width: 500px;
+    height: 50px;
+    border: 1px solid #000;
+    margin: 50px;
+}
+.symbol{
+    border: 0.1px solid #000;
+    border-radius: 100%;
+    font-size: 35px;
+    font-style: bold;
+    text-align: center;
+    padding: 14px;
+    margin:10px;
+    width: 50px;
+    height: 50px;
+    background: rgb(222, 122, 7);
+}
+.ravno{
+    border: 0.1px solid #000;
+    border-radius: 100%;
+    font-size: 35px;
+    font-style: bold;
+    text-align: center;
+    padding: 14px;
+    margin:10px;
+    width: 50px;
+    height: 50px;
+    background: rgb(222, 122, 7);
+}
